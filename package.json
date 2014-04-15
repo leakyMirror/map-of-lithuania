@@ -1,0 +1,24 @@
+{
+  "name": "map-of-lithuania",
+  "version": "0.0.0",
+  "description": "This project creates a map of Lithuania divided into municipalities. The output is GeoJSON and TopoJSON format.",
+  "main": "script.js",
+  "dependencies": {
+    "async": "~0.7.0",
+    "request": "~2.34.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leakyMirror/map-of-lithuania.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leakyMirror/map-of-lithuania/issues"
+  },
+  "homepage": "https://github.com/leakyMirror/map-of-lithuania"
+}

@@ -1,0 +1,3362 @@
+{
+	"98305": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 98305,
+		"codes": {
+			"osm_rel": "2004197"
+		},
+		"name": "Neravai",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 1,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"62466": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 62466,
+		"codes": {
+			"osm_rel": "1344967"
+		},
+		"name": "Salakas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 1,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"419243": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 419243,
+		"codes": {
+			"osm_rel": "1529049"
+		},
+		"name": "Lentvaris",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"151556": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 151556,
+		"codes": {
+			"osm_way": "111543360"
+		},
+		"name": "Unknown name for way with ID 111543360",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 1,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"151557": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 151557,
+		"codes": {
+			"osm_way": "111545492"
+		},
+		"name": "Zibalai",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 1,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"369160": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 369160,
+		"codes": {
+			"osm_rel": "1527478"
+		},
+		"name": "Lentvario seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"287240": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 287240,
+		"codes": {
+			"osm_rel": "2431001"
+		},
+		"name": "Žiežmariai",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 2,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"365577": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365577,
+		"codes": {
+			"osm_rel": "1130030"
+		},
+		"name": "Pasvalio rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"365578": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365578,
+		"codes": {
+			"osm_rel": "1203041"
+		},
+		"name": "Šilutės rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"365579": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365579,
+		"codes": {
+			"osm_rel": "1203042"
+		},
+		"name": "Skuodo rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"365580": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365580,
+		"codes": {
+			"osm_rel": "1203043"
+		},
+		"name": "Klaipėdos rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"365581": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365581,
+		"codes": {
+			"osm_rel": "1211023"
+		},
+		"name": "Mažeikių rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"241168": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 241168,
+		"codes": {
+			"osm_rel": "1129073"
+		},
+		"name": "Rietavo seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 2,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"408083": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 408083,
+		"codes": {
+			"osm_rel": "1235895"
+		},
+		"name": "Visaginas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"268821": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 268821,
+		"codes": {
+			"osm_rel": "1463518"
+		},
+		"name": "Nemunaitis",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 2,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"481564": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 481564,
+		"codes": {
+			"osm_way": "99207108"
+		},
+		"name": "Unknown name for way with ID 99207108",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"485400": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 485400,
+		"codes": {
+			"osm_rel": "1013447"
+		},
+		"name": "Vilkpėdės seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"369156": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 369156,
+		"codes": {
+			"osm_rel": "1518455"
+		},
+		"name": "Jurbarko miesto seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"366511": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 366511,
+		"codes": {
+			"osm_rel": "966580"
+		},
+		"name": "Vilkaviškio rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"59935": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 59935,
+		"codes": {
+			"osm_rel": "1306653"
+		},
+		"name": "Švėkšna",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 1,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"420384": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 420384,
+		"codes": {
+			"osm_rel": "1567531"
+		},
+		"name": "Panevėžys",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"420385": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 420385,
+		"codes": {
+			"osm_rel": "1567544"
+		},
+		"name": "Kaunas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"365602": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365602,
+		"codes": {
+			"osm_rel": "1256236"
+		},
+		"name": "Šiaulių rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"368167": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 368167,
+		"codes": {
+			"osm_rel": "1309905"
+		},
+		"name": "Garliavos miesto seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"365608": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365608,
+		"codes": {
+			"osm_rel": "1307307"
+		},
+		"name": "Kelmės rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"365609": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365609,
+		"codes": {
+			"osm_rel": "1312644"
+		},
+		"name": "Prienų rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"245293": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 245293,
+		"codes": {
+			"osm_rel": "2474183"
+		},
+		"name": "Birštonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 2,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"365616": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365616,
+		"codes": {
+			"osm_rel": "1447848"
+		},
+		"name": "Jonavos rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"485425": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 485425,
+		"codes": {
+			"osm_rel": "1017348"
+		},
+		"name": "Panerių seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"485426": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 485426,
+		"codes": {
+			"osm_rel": "1017349"
+		},
+		"name": "Grigiškių seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"485427": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 485427,
+		"codes": {
+			"osm_rel": "1017350"
+		},
+		"name": "Lazdynų seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"365622": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365622,
+		"codes": {
+			"osm_rel": "1476170"
+		},
+		"name": "Raseinių rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"365623": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365623,
+		"codes": {
+			"osm_rel": "1479204"
+		},
+		"name": "Tauragės rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"367207": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 367207,
+		"codes": {
+			"osm_rel": "1069506"
+		},
+		"name": "Šančių seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"416948": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 416948,
+		"codes": {
+			"osm_rel": "1456884"
+		},
+		"name": "Alytus",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"442938": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 442938,
+		"codes": {
+			"osm_rel": "2809209"
+		},
+		"name": "Pilviškiai",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"485947": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 485947,
+		"codes": {
+			"osm_rel": "1070550"
+		},
+		"name": "Pilaitės seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"367676": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 367676,
+		"codes": {
+			"osm_rel": "1163383"
+		},
+		"name": "Rokiškio miesto seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"46141": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 46141,
+		"codes": {
+			"osm_rel": "1129070"
+		},
+		"name": "Rietavo m. seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 1,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"365632": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365632,
+		"codes": {
+			"osm_rel": "1518453"
+		},
+		"name": "Kaišiadorių rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"365633": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365633,
+		"codes": {
+			"osm_rel": "1518454"
+		},
+		"name": "Šilalės rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"365634": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365634,
+		"codes": {
+			"osm_rel": "1518457"
+		},
+		"name": "Kėdainių rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"365635": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365635,
+		"codes": {
+			"osm_rel": "1518458"
+		},
+		"name": "Jurbarko rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"435269": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 435269,
+		"codes": {
+			"osm_rel": "2421572"
+		},
+		"name": "Patašinė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"151110": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 151110,
+		"codes": {
+			"osm_rel": "969390"
+		},
+		"name": "Dūkštas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 1,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"366519": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 366519,
+		"codes": {
+			"osm_rel": "974204"
+		},
+		"name": "Marijampolės savivaldybė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"474702": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 474702,
+		"codes": {
+			"osm_rel": "974206"
+		},
+		"name": "Vilkija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"366520": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 366520,
+		"codes": {
+			"osm_rel": "974208"
+		},
+		"name": "Kalvarijos savivaldybė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"197205": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 197205,
+		"codes": {
+			"osm_rel": "1235893"
+		},
+		"name": "Julionių k.",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 9",
+		"generation_low": 1,
+		"country_name": "Global",
+		"type": "O09"
+	},
+	"197206": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 197206,
+		"codes": {
+			"osm_rel": "1235894"
+		},
+		"name": "Ramybės k.",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 9",
+		"generation_low": 1,
+		"country_name": "Global",
+		"type": "O09"
+	},
+	"367677": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 367677,
+		"codes": {
+			"osm_rel": "1163384"
+		},
+		"name": "Juodupės seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"276751": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 276751,
+		"codes": {
+			"osm_rel": "1724636"
+		},
+		"name": "Radviliškis",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 2,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"369163": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 369163,
+		"codes": {
+			"osm_rel": "1531649"
+		},
+		"name": "Dieveniškių seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"196624": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 196624,
+		"codes": {
+			"osm_way": "72765418"
+		},
+		"name": "Unknown name for way with ID 72765418",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 1,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"278114": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 278114,
+		"codes": {
+			"osm_rel": "1797425"
+		},
+		"name": "Kaišiadorys",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 2,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"443491": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 443491,
+		"codes": {
+			"osm_rel": "2822274"
+		},
+		"name": "Rūdiškės",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"367204": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 367204,
+		"codes": {
+			"osm_rel": "1067532"
+		},
+		"name": "Dainavos seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"367205": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 367205,
+		"codes": {
+			"osm_rel": "1067536"
+		},
+		"name": "Gričiupio seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"367206": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 367206,
+		"codes": {
+			"osm_rel": "1067573"
+		},
+		"name": "Centro seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"152167": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 152167,
+		"codes": {
+			"osm_way": "139282576"
+		},
+		"name": "Unknown name for way with ID 139282576",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 1,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"367208": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 367208,
+		"codes": {
+			"osm_rel": "1069527"
+		},
+		"name": "Aleksoto seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"432235": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 432235,
+		"codes": {
+			"osm_rel": "2094297"
+		},
+		"name": "Zarasų miestas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"74349": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 74349,
+		"codes": {
+			"osm_rel": "1536188"
+		},
+		"name": "Šalčininkai",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 1,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"286835": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 286835,
+		"codes": {
+			"osm_rel": "2409707"
+		},
+		"name": "Varėna",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 2,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"415862": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 415862,
+		"codes": {
+			"osm_rel": "1420931"
+		},
+		"name": "Šilutė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"367735": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 367735,
+		"codes": {
+			"osm_rel": "1206648"
+		},
+		"name": "Žaliakalnio seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"367736": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 367736,
+		"codes": {
+			"osm_rel": "1206649"
+		},
+		"name": "Petrašiūnų seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"367737": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 367737,
+		"codes": {
+			"osm_rel": "1206650"
+		},
+		"name": "Eigulių seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"439419": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 439419,
+		"codes": {
+			"osm_rel": "2667242"
+		},
+		"name": "Nemenčinė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"418949": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 418949,
+		"codes": {
+			"osm_rel": "1518456"
+		},
+		"name": "Trakai",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"421512": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 421512,
+		"codes": {
+			"osm_rel": "1621740"
+		},
+		"name": "Garliava",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"286866": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 286866,
+		"codes": {
+			"osm_rel": "2410245"
+		},
+		"name": "Paberžė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 2,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"503446": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 503446,
+		"codes": {
+			"osm_rel": "968951"
+		},
+		"name": "Senamiesčio seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"439961": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 439961,
+		"codes": {
+			"osm_rel": "2680258"
+		},
+		"name": "Domeikava",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"493722": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 493722,
+		"codes": {
+			"osm_rel": "2412818"
+		},
+		"name": "Išorai",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"486043": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 486043,
+		"codes": {
+			"osm_rel": "1200167"
+		},
+		"name": "Justiniškių seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"486044": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 486044,
+		"codes": {
+			"osm_rel": "1200168"
+		},
+		"name": "Pašilaičių seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"394522": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 394522,
+		"codes": {
+			"osm_way": "82500001"
+		},
+		"name": "Unknown name for way with ID 82500001",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"493726": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 493726,
+		"codes": {
+			"osm_rel": "2415032"
+		},
+		"name": "Molainiai",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"486047": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 486047,
+		"codes": {
+			"osm_rel": "1201400"
+		},
+		"name": "Fabijoniškių seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"486048": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 486048,
+		"codes": {
+			"osm_rel": "1201401"
+		},
+		"name": "Šeškinės seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"503457": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 503457,
+		"codes": {
+			"osm_rel": "975554"
+		},
+		"name": "Žvėryno seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"367267": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 367267,
+		"codes": {
+			"osm_rel": "1078723"
+		},
+		"name": "Panemunės seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"363688": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 363688,
+		"codes": {
+			"osm_rel": "1069509"
+		},
+		"name": "Kauno apskritis",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 4",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O04"
+	},
+	"421033": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 421033,
+		"codes": {
+			"osm_rel": "1606241"
+		},
+		"name": "Jurbarkas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"363690": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 363690,
+		"codes": {
+			"osm_rel": "1076930"
+		},
+		"name": "Alytaus apskritis",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 4",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O04"
+	},
+	"75436": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 75436,
+		"codes": {
+			"osm_rel": "1570130"
+		},
+		"name": "Širvintos",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 1,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"404143": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 404143,
+		"codes": {
+			"osm_rel": "1144214"
+		},
+		"name": "Švenčionys",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"369162": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 369162,
+		"codes": {
+			"osm_rel": "1531648"
+		},
+		"name": "Poškonių seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"474804": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 474804,
+		"codes": {
+			"osm_way": "113081307"
+		},
+		"name": "Unknown name for way with ID 113081307",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"366775": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 366775,
+		"codes": {
+			"osm_way": "35096943"
+		},
+		"name": "Unknown name for way with ID 35096943",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"366776": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 366776,
+		"codes": {
+			"osm_way": "35097284"
+		},
+		"name": "Unknown name for way with ID 35097284",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"415604": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 415604,
+		"codes": {
+			"osm_rel": "1414232"
+		},
+		"name": "Priekulė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"486074": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 486074,
+		"codes": {
+			"osm_rel": "1252013"
+		},
+		"name": "Šnipiškių seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"486075": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 486075,
+		"codes": {
+			"osm_rel": "1252014"
+		},
+		"name": "Žirmūnų seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"372269": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 372269,
+		"codes": {
+			"osm_rel": "2562265"
+		},
+		"name": "Šilalė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"430784": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 430784,
+		"codes": {
+			"osm_rel": "1976310"
+		},
+		"name": "Utena",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"365250": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365250,
+		"codes": {
+			"osm_rel": "966958"
+		},
+		"name": "Utenos apskritis",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 4",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O04"
+	},
+	"365251": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365251,
+		"codes": {
+			"osm_rel": "974211"
+		},
+		"name": "Marijampolės apskritis",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 4",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O04"
+	},
+	"365252": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365252,
+		"codes": {
+			"osm_rel": "977317"
+		},
+		"name": "Vilniaus apskritis",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 4",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O04"
+	},
+	"371397": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 371397,
+		"codes": {
+			"osm_rel": "1944330"
+		},
+		"name": "Domeikavos seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"439504": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 439504,
+		"codes": {
+			"osm_rel": "2669185"
+		},
+		"name": "Vievis",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"436435": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 436435,
+		"codes": {
+			"osm_rel": "2521385"
+		},
+		"name": "Raseiniai",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"363733": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 363733,
+		"codes": {
+			"osm_rel": "1189583"
+		},
+		"name": "Klaipėdos apskritis",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 4",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O04"
+	},
+	"363734": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 363734,
+		"codes": {
+			"osm_rel": "1211025"
+		},
+		"name": "Telšių apskritis",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 4",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O04"
+	},
+	"440543": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 440543,
+		"codes": {
+			"osm_rel": "2712050"
+		},
+		"name": "Ariogala",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"429290": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 429290,
+		"codes": {
+			"osm_rel": "1903910"
+		},
+		"name": "Jonava",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"365607": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365607,
+		"codes": {
+			"osm_rel": "1307304"
+		},
+		"name": "Akmenės rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"91688": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 91688,
+		"codes": {
+			"osm_rel": "1874364"
+		},
+		"name": "Tytuvėnai",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 1,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"367060": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 367060,
+		"codes": {
+			"osm_rel": "1000504"
+		},
+		"name": "Neveronių seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"493819": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 493819,
+		"codes": {
+			"osm_rel": "2427783"
+		},
+		"name": "Pučiakalnė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"474889": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 474889,
+		"codes": {
+			"osm_way": "140605003"
+		},
+		"name": "Unknown name for way with ID 140605003",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"430511": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 430511,
+		"codes": {
+			"osm_rel": "1970099"
+		},
+		"name": "Palangos miestas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"365613": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365613,
+		"codes": {
+			"osm_rel": "1360452"
+		},
+		"name": "Plungės rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"157459": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 157459,
+		"codes": {
+			"osm_way": "25139690"
+		},
+		"name": "Unknown name for way with ID 25139690",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 1,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"419630": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 419630,
+		"codes": {
+			"osm_rel": "1538073"
+		},
+		"name": "Rokiškis",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"474906": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 474906,
+		"codes": {
+			"osm_way": "150387955"
+		},
+		"name": "Unknown name for way with ID 150387955",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"20252": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 20252,
+		"codes": {
+			"osm_rel": "1129072"
+		},
+		"name": "Tverų seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 1,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"20254": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 20254,
+		"codes": {
+			"osm_rel": "1129074"
+		},
+		"name": "Daugėdų seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 1,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"363807": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 363807,
+		"codes": {
+			"osm_rel": "1307305"
+		},
+		"name": "Tauragės apskritis",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 4",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O04"
+	},
+	"373025": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 373025,
+		"codes": {
+			"osm_rel": "2747624"
+		},
+		"name": "Užlieždių seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"343845": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 343845,
+		"codes": {
+			"osm_rel": "2469808"
+		},
+		"name": "Šėta",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 2,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"17198": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 17198,
+		"codes": {
+			"osm_rel": "1256234"
+		},
+		"name": "Pakruojo rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 1,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"17199": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 17199,
+		"codes": {
+			"osm_rel": "1256235"
+		},
+		"name": "Joniškio rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 1,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"438580": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 438580,
+		"codes": {
+			"osm_rel": "2629694"
+		},
+		"name": "Mažeikiai",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"438581": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 438581,
+		"codes": {
+			"osm_rel": "2629724"
+		},
+		"name": "Tauragė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"486196": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 486196,
+		"codes": {
+			"osm_rel": "1274540"
+		},
+		"name": "Verkių seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"99130": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 99130,
+		"codes": {
+			"osm_rel": "2034782"
+		},
+		"name": "Venta",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 1,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"394164": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 394164,
+		"codes": {
+			"osm_way": "71743393"
+		},
+		"name": "Unknown name for way with ID 71743393",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"17212": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 17212,
+		"codes": {
+			"osm_rel": "1360453"
+		},
+		"name": "Telšių rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 1,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"365552": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365552,
+		"codes": {
+			"osm_rel": "1067534"
+		},
+		"name": "Kauno miesto savivaldybė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"486197": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 486197,
+		"codes": {
+			"osm_rel": "1274541"
+		},
+		"name": "Antakalnio seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"343362": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 343362,
+		"codes": {
+			"osm_rel": "2438434"
+		},
+		"name": "Ramučiai",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 2,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"418115": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 418115,
+		"codes": {
+			"osm_rel": "1484281"
+		},
+		"name": "Telšiai",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"496967": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 496967,
+		"codes": {
+			"osm_rel": "2713074"
+		},
+		"name": "Zabiškiai",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"407368": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 407368,
+		"codes": {
+			"osm_rel": "1223718"
+		},
+		"name": "Švenčionėliai",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"413001": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 413001,
+		"codes": {
+			"osm_rel": "1343618"
+		},
+		"name": "Marijampolė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"367441": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 367441,
+		"codes": {
+			"osm_rel": "1109179"
+		},
+		"name": "Šilainių seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"367442": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 367442,
+		"codes": {
+			"osm_rel": "1109180"
+		},
+		"name": "Vilijampolės seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"494419": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 494419,
+		"codes": {
+			"osm_rel": "2515509"
+		},
+		"name": "Karapolis",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"486229": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 486229,
+		"codes": {
+			"osm_rel": "1283316"
+		},
+		"name": "Naujininkų seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"486230": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 486230,
+		"codes": {
+			"osm_rel": "1283317"
+		},
+		"name": "Naujosios Vilnios seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"438615": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 438615,
+		"codes": {
+			"osm_rel": "2632639"
+		},
+		"name": "Gargždai",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"496476": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 496476,
+		"codes": {
+			"osm_rel": "2673944"
+		},
+		"name": "Kėbliškiai",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"485946": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 485946,
+		"codes": {
+			"osm_rel": "1069592"
+		},
+		"name": "Karoliniškių seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"64337": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 64337,
+		"codes": {
+			"osm_rel": "1369582"
+		},
+		"name": "Kėdainiai",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 1,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"425314": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 425314,
+		"codes": {
+			"osm_rel": "1713458"
+		},
+		"name": "Klaipėda",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"367675": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 367675,
+		"codes": {
+			"osm_rel": "1163382"
+		},
+		"name": "Obelių seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"76133": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 76133,
+		"codes": {
+			"osm_rel": "1598770"
+		},
+		"name": "Pakruojis",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 1,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"439100": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 439100,
+		"codes": {
+			"osm_rel": "2657360"
+		},
+		"name": "Pabradė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"431591": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 431591,
+		"codes": {
+			"osm_rel": "2026406"
+		},
+		"name": "Akmenė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"439148": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 439148,
+		"codes": {
+			"osm_rel": "2659684"
+		},
+		"name": "Kybartai",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"444269": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 444269,
+		"codes": {
+			"osm_rel": "2838845"
+		},
+		"name": "Rukla",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"438638": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 438638,
+		"codes": {
+			"osm_rel": "2634843"
+		},
+		"name": "Kupiškis",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"435261": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 435261,
+		"codes": {
+			"osm_rel": "2420732"
+		},
+		"name": "Rudamina",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"425332": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 425332,
+		"codes": {
+			"osm_rel": "1714886"
+		},
+		"name": "Šiauliai",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"365545": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365545,
+		"codes": {
+			"osm_rel": "1016307"
+		},
+		"name": "Šalčininkų rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"92024": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 92024,
+		"codes": {
+			"osm_rel": "1878427"
+		},
+		"name": "Kelmė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 1,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"365549": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365549,
+		"codes": {
+			"osm_rel": "1022102"
+		},
+		"name": "Kretingos rajono savivaldybė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"363754": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 363754,
+		"codes": {
+			"osm_rel": "1256237"
+		},
+		"name": "Šiaulių apskritis",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 4",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O04"
+	},
+	"366513": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 366513,
+		"codes": {
+			"osm_rel": "966642"
+		},
+		"name": "Utenos rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"240013": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 240013,
+		"codes": {
+			"osm_rel": "1085090"
+		},
+		"name": "Birštono savivaldybė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 2,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"240526": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 240526,
+		"codes": {
+			"osm_rel": "974207"
+		},
+		"name": "Kazlų Rūdos savivaldybė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 2,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"438671": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 438671,
+		"codes": {
+			"osm_rel": "2635706"
+		},
+		"name": "Kuršėnai",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"240016": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 240016,
+		"codes": {
+			"osm_rel": "1111075"
+		},
+		"name": "Kupiškio rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 2,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"486231": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 486231,
+		"codes": {
+			"osm_rel": "1283318"
+		},
+		"name": "Rasų seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"438675": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 438675,
+		"codes": {
+			"osm_rel": "2635874"
+		},
+		"name": "Elektrėnai",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"444308": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 444308,
+		"codes": {
+			"osm_rel": "2841247"
+		},
+		"name": "Baisogala",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"365550": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365550,
+		"codes": {
+			"osm_rel": "1027570"
+		},
+		"name": "Ukmergės rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"365576": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365576,
+		"codes": {
+			"osm_rel": "1129075"
+		},
+		"name": "Rietavo rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"420762": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 420762,
+		"codes": {
+			"osm_rel": "1584267"
+		},
+		"name": "Eišiškės",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"367516": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 367516,
+		"codes": {
+			"osm_rel": "1129071"
+		},
+		"name": "Medingėnų seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"83361": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 83361,
+		"codes": {
+			"osm_rel": "1711760"
+		},
+		"name": "Plungė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 1,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"494006": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 494006,
+		"codes": {
+			"osm_rel": "2455779"
+		},
+		"name": "Rumšiškės",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"320924": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 320924,
+		"codes": {
+			"osm_way": "114605378"
+		},
+		"name": "Unknown name for way with ID 114605378",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 2,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"98306": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 98306,
+		"codes": {
+			"osm_rel": "2004212"
+		},
+		"name": "Salos",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 1,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"366508": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 366508,
+		"codes": {
+			"osm_rel": "966362"
+		},
+		"name": "Visagino m. savivaldybė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"366509": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 366509,
+		"codes": {
+			"osm_rel": "966363"
+		},
+		"name": "Ignalinos rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"366510": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 366510,
+		"codes": {
+			"osm_rel": "966544"
+		},
+		"name": "Zarasų rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"496559": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 496559,
+		"codes": {
+			"osm_rel": "2680257"
+		},
+		"name": "Saliai",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"366512": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 366512,
+		"codes": {
+			"osm_rel": "966581"
+		},
+		"name": "Šakių rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"71601": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 71601,
+		"codes": {
+			"osm_rel": "1463545"
+		},
+		"name": "Balininkai",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 1,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"366514": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 366514,
+		"codes": {
+			"osm_rel": "967318"
+		},
+		"name": "Švenčionių rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"366515": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 366515,
+		"codes": {
+			"osm_rel": "968826"
+		},
+		"name": "Šiaulių m. savivaldybė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"366516": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 366516,
+		"codes": {
+			"osm_rel": "968945"
+		},
+		"name": "Panevėžio m. savivaldybė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"366517": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 366517,
+		"codes": {
+			"osm_rel": "968950"
+		},
+		"name": "Elektrėnų savivaldybė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"366518": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 366518,
+		"codes": {
+			"osm_rel": "968952"
+		},
+		"name": "Vilniaus m. savivaldybė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"419255": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 419255,
+		"codes": {
+			"osm_rel": "1529146"
+		},
+		"name": "Vilnius",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"419256": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 419256,
+		"codes": {
+			"osm_rel": "1529147"
+		},
+		"name": "Grigiškės",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"366521": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 366521,
+		"codes": {
+			"osm_rel": "974219"
+		},
+		"name": "Kauno rajono savivaldybė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"366522": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 366522,
+		"codes": {
+			"osm_rel": "977316"
+		},
+		"name": "Vilniaus rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"493727": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 493727,
+		"codes": {
+			"osm_rel": "2415039"
+		},
+		"name": "Joniškis",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"240063": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 240063,
+		"codes": {
+			"osm_rel": "1307306"
+		},
+		"name": "Radviliškio rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 2,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"363680": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 363680,
+		"codes": {
+			"osm_rel": "1028503"
+		},
+		"name": "Panevėžio apskritis",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 4",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O04"
+	},
+	"442309": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 442309,
+		"codes": {
+			"osm_rel": "2795115"
+		},
+		"name": "Akademija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"486049": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 486049,
+		"codes": {
+			"osm_rel": "1201402"
+		},
+		"name": "Viršuliškių seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"371660": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 371660,
+		"codes": {
+			"osm_rel": "2202560"
+		},
+		"name": "Čekiškės seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"196557": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 196557,
+		"codes": {
+			"osm_way": "61722138"
+		},
+		"name": "Dūkštas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 1,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"320974": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 320974,
+		"codes": {
+			"osm_way": "133760426"
+		},
+		"name": "Unknown name for way with ID 133760426",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 2,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"287700": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 287700,
+		"codes": {
+			"osm_rel": "2461317"
+		},
+		"name": "Pasvalys",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 2,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"440750": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 440750,
+		"codes": {
+			"osm_rel": "2724138"
+		},
+		"name": "Šeduva",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"429022": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 429022,
+		"codes": {
+			"osm_rel": "1893693"
+		},
+		"name": "Naujoji Akmenė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"365541": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365541,
+		"codes": {
+			"osm_rel": "1002044"
+		},
+		"name": "Pagėgių savivaldybė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"365542": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365542,
+		"codes": {
+			"osm_rel": "1002203"
+		},
+		"name": "Molėtų rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"365543": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365543,
+		"codes": {
+			"osm_rel": "1002204"
+		},
+		"name": "Anykščių rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"365544": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365544,
+		"codes": {
+			"osm_rel": "1014347"
+		},
+		"name": "Klaipėdos m. savivaldybė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"435177": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 435177,
+		"codes": {
+			"osm_rel": "2413426"
+		},
+		"name": "Ukmergė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"365546": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365546,
+		"codes": {
+			"osm_rel": "1016308"
+		},
+		"name": "Širvintų rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"365547": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365547,
+		"codes": {
+			"osm_rel": "1016309"
+		},
+		"name": "Trakų rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"365548": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365548,
+		"codes": {
+			"osm_rel": "1022101"
+		},
+		"name": "Palangos miesto savivaldybė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"438610": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 438610,
+		"codes": {
+			"osm_rel": "2632179"
+		},
+		"name": "Biržai",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"367086": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 367086,
+		"codes": {
+			"osm_rel": "1022114"
+		},
+		"name": "Karmėlavos seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 6",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O06"
+	},
+	"365551": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365551,
+		"codes": {
+			"osm_rel": "1028505"
+		},
+		"name": "Panevėžio rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"414192": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 414192,
+		"codes": {
+			"osm_rel": "1381830"
+		},
+		"name": "Kazlų Rūda",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	},
+	"365553": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365553,
+		"codes": {
+			"osm_rel": "1076928"
+		},
+		"name": "Druskininkų savivaldybė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"365554": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365554,
+		"codes": {
+			"osm_rel": "1076929"
+		},
+		"name": "Varėnos rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"365555": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365555,
+		"codes": {
+			"osm_rel": "1078733"
+		},
+		"name": "Neringos savivaldybė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"365556": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365556,
+		"codes": {
+			"osm_rel": "1082822"
+		},
+		"name": "Lazdijų rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"365557": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365557,
+		"codes": {
+			"osm_rel": "1085089"
+		},
+		"name": "Alytaus rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"365558": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365558,
+		"codes": {
+			"osm_rel": "1085091"
+		},
+		"name": "Alytaus m. savivaldybė",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"365559": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365559,
+		"codes": {
+			"osm_rel": "1111073"
+		},
+		"name": "Rokiškio rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"365560": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 365560,
+		"codes": {
+			"osm_rel": "1111074"
+		},
+		"name": "Biržų rajonas",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 5",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O05"
+	},
+	"503454": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 503454,
+		"codes": {
+			"osm_rel": "974263"
+		},
+		"name": "Naujamiesčio seniūnija",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 10",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O10"
+	},
+	"431445": {
+		"parent_area": null,
+		"generation_high": 3,
+		"all_names": {},
+		"id": 431445,
+		"codes": {
+			"osm_rel": "2013017"
+		},
+		"name": "Vilkaviškis",
+		"country": "G",
+		"type_name": "OSM Administrative Boundary Level 8",
+		"generation_low": 3,
+		"country_name": "Global",
+		"type": "O08"
+	}
+}
