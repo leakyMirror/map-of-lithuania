@@ -2,6 +2,8 @@
 
 This project creates a map of Lithuania divided into municipalities. The output is in GeoJSON, TopoJSON and SHP formats.
 
+####[Preview it here](https://github.com/leakyMirror/map-of-lithuania/blob/master/GeoJSON/LTU_Final.geojson)
+
 ## How to use
 GeoJSON, TopoJSON and SHP files are ready to use. 
 
