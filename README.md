@@ -1,6 +1,6 @@
 # Municipalities of Lithuania
 
-This project creates a map of Lithuania divided into municipalities. The output is in GeoJSON and TopoJSON formats.
+This project creates a map of Lithuania divided into 60 municipalities. The output is in GeoJSON and TopoJSON formats.
 
 ####[Preview it here](https://github.com/leakyMirror/map-of-lithuania/blob/master/GeoJSON/LTU_Final.geojson)
 
