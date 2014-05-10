@@ -14,10 +14,10 @@ Run ```make``` in Terminal.
 1. Initial data is taken from [MapIt global API](http://global.mapit.mysociety.org/area/363370/covers) and stored into ```src/units.json``` file. It is a list of all administrative units in Lithuania. 
 UPDATE: It seems that the link above does not work now. Maybe you would be able to find a way around. A good place to start - Lithuania [profile](http://global.mapit.mysociety.org/area/363370.html).
 2. ```createGeojson.js``` script filters ```src/units.json``` file and leaves municipalities only. It also adds properties like id, name and long name of each municipality. Finally it makes a request to MapIt API and gets a GeoJSON geometry data for each municipality. The output can be found at ```GeoJSON/LTU_OSM.geojson```.
-3. Using ```topojson``` tool, ```GeoJSON/LTU_OSM.geojson``` file is converted to TopoJSON format. This step reduces file size from ~2MB to ~200KB. Geometry was also simplified to reduce file size even more (~200KB vs `40KB). If you need more detailed geometry, you should increase ```--simplify-proportion``` in a ```Makefile``` and run ```make createTopojson``` in Terminal. Output can be found at ```TopoJSON/LTU_OSM.topojson```.
+3. Using ```topojson``` tool, ```GeoJSON/LTU_OSM.geojson``` file is converted to TopoJSON format. This step reduces file size from ~2MB to ~200KB. Geometry was also simplified to reduce file size even more (~200KB vs 40KB). If you need more detailed geometry, you should increase ```--simplify-proportion``` in a ```Makefile``` and run ```make createTopojson``` in Terminal. Output can be found at ```TopoJSON/LTU_OSM.topojson```.
 
-Read more about simplification [here](http://bost.ocks.org/mike/simplify/)
-Find out, how much simplification you need [here](http://www.mapshaper.org/) (drag and drop ```GeoJSON/LTU_OSM.geojson```)
+Read more about simplification [here](http://bost.ocks.org/mike/simplify/).<br /> 
+Find out, how much simplification you need [here](http://www.mapshaper.org/) (drag and drop ```GeoJSON/LTU_OSM.geojson```).
 
-THIS STEP IS MANUAL:
-4. Some municipalities have inaccurate geometry, which includes parts of Curonian Lagoon. To fix this, ```GeoJSON/LTU_OSM.geojson``` was opened in ```QGIS``` program. Using ```OpenLayers``` plugin, the geometry was manually changed where needed. The output SHP, GeoJSON and TopoJSON files can be found in the master branch. 
+THIS STEP IS MANUAL:<br /> 
+4. Some municipalities have inaccurate geometry, which includes parts of Curonian Lagoon. To fix this, ```GeoJSON/LTU_OSM.geojson``` was opened in ```QGIS``` program. Using ```OpenLayers``` plugin, the geometry was manually changed where needed. The output SHP, GeoJSON and TopoJSON files can be found in the [master branch](https://github.com/leakyMirror/map-of-lithuania). 
