@@ -1,3 +1,9 @@
+all: \
+	install \
+	createFolders \
+	createGeoJSON \
+	createTopoJSON
+
 install:
 	npm install
 
