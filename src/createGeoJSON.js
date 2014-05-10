@@ -1,7 +1,7 @@
 var request = require('request') 
   , async = require('async')
   , fs = require('fs')
-  , trueOrder = require('./helpers/ids.js').ids
+  , trueOrder = require('./ids.js').ids // A list of Lithuanian Municipalities ordered by alphabet
 
 //-----------------------------------------------
 // Declaring functions
@@ -25,7 +25,7 @@ function requestData(item,callback) {
 //-----------------------------------------------
 // Start
 //-----------------------------------------------
-fs.readFile('helpers/units.json', 'utf-8', function(err,file) {
+fs.readFile('src/units.json', 'utf-8', function(err,file) {
   // Read file units.json and filter municipalities
   var file = JSON.parse(file)
     , keys = Object.keys(file)
@@ -53,6 +53,6 @@ fs.readFile('helpers/units.json', 'utf-8', function(err,file) {
 
   // Get GeoJSON geometry data from MapIt API
   async.map(GeoJSON.features, requestData, function(err,res) {
-    fs.writeFile('GeoJSON/LTU_OSMddd.geojson', JSON.stringify(GeoJSON))
+    fs.writeFile('GeoJSON/LTU_OSM.geojson', JSON.stringify(GeoJSON))
   })
 })
