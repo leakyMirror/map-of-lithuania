@@ -19,7 +19,7 @@ THIS STEP IS MANUAL:<br />
 4. Some municipalities have inaccurate geometry, which includes parts of Curonian Lagoon. To fix this, ```GeoJSON/LTU_OSM.geojson``` was opened in ```QGIS``` program. Using ```OpenLayers``` plugin, the geometry was manually changed where needed. The output SHP, GeoJSON and TopoJSON files can be found in the [master branch](https://github.com/leakyMirror/map-of-lithuania). 
 
 ## Reading list
-Read about Topojson [here](https://github.com/mbostock/topojson/wiki)
+Read about Topojson [here](https://github.com/mbostock/topojson/wiki).<br /> 
 Read about simplification [here](http://bost.ocks.org/mike/simplify/).<br /> 
 Find out, how much simplification you need [here](http://www.mapshaper.org/) (drag and drop ```GeoJSON/LTU_OSM.geojson```).
 
